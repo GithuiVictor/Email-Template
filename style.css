@@ -1,0 +1,68 @@
+body {
+    Margin: 0;
+    padding: 0;
+    background-color: #f6f9fc;
+}
+table {
+    border-spacing: 0;
+}
+td {
+    padding: 0;
+}
+img {
+    border: 0;
+}
+
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+    background-color: #f6f9fc;
+    padding-bottom: 40px;
+}
+
+.webkit{
+    max-width: 600px;
+    background-color: #ffffff;
+}
+
+.outer{
+    Margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-spacing: 0;
+    font-family: sans-serif;
+    color: #4a4a4a;
+}
+
+.foundationName{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.para{
+    padding: 4rem;
+    padding-top: 0rem;
+    padding-bottom: 2rem;
+    
+}
+
+.rsvpBtn{
+    padding: 15rem;
+    padding-bottom: 2rem;
+}
+
+.btn{
+    padding: 13px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 20px;
+    border: none;
+    background-color: green;
+    color: whitesmoke;
+    margin-bottom: 3rem;
+}
+
+@media screen and (max-width: 600px) { 
+}
+@media screen and (max-width: 400px) { 
+}
